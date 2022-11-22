@@ -1,0 +1,38 @@
+#head{
+    width: 100%;
+    text-align: left;
+    
+}
+#instruct {
+    float: right;
+
+    font-size:20px;
+}
+#heading{
+    display: inline;
+}
+
+#footer {
+    position: absolute;
+    bottom: 0;
+    text-align: center;
+   color:whitesmoke;
+    background-color:blue ;
+    width: 100%;
+}
+
+.modal-dialog {
+    width: 90%;
+
+}
+
+.i1 {
+    display: inline-block;
+}
+
+#restart{
+    float: right;
+}
+#status{
+ position: fixed;
+}
